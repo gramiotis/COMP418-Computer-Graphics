@@ -6,5 +6,5 @@ The assignment for this class was to design an RTS game with the specifications 
 * **Eden**: This is the game folder which contains the executable for running the game.
 * **GameDesignDocument**: In this PDF file the game components are described such as the game's resources, units, buildings and scripts alongside the game's hierarchy. 
 
-![game_preview.jpg](../_resources/game_preview.jpg)
+![game_preview.jpg](./_resources/game_preview.jpg)
 
