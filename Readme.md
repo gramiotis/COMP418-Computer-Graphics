@@ -8,3 +8,6 @@ The assignment for this class was to design an RTS game with the specifications 
 
 ![game_preview.jpg](./_resources/game_preview.jpg)
 
+## **Disclaimer**
+This project is not used for commercial purposes!
+
